@@ -8,7 +8,7 @@ This gem contains front end assets for the DSE Portal.
 Add to your `Gemfile`:
 
 ```ruby
-  gem "dse-assets"
+  gem 'portal-assets'
 ```
 
 Then, import the asset using the `require` directive in `application.js`:

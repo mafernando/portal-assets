@@ -11,7 +11,7 @@ Add to your `Gemfile`:
   gem 'portal-assets'
 ```
 
-Then import the asset using the `require` directive in `application.js` 
+Then import portal assets using the `require` directive in `application.js`: 
 
 
 ```js
@@ -22,7 +22,7 @@ Then import the asset using the `require` directive in `application.js`
 
 ```
 
-and `applicatin.css`:
+and in `application.css`:
 
 ```css
 /*

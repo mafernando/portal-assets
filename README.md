@@ -11,7 +11,7 @@ Add to your `Gemfile`:
   gem 'portal-assets'
 ```
 
-Then, import the asset using the `require` directive in `application.js`:
+Then import the asset using the `require` directive in `application.js`:
 
 ```js
 //= require "angular"

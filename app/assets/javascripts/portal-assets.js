@@ -4,4 +4,3 @@
 //= require holderjs
 //= require metisMenu
 //= require startbootstrap-sb-admin-2
-//= require angular-rails-templates

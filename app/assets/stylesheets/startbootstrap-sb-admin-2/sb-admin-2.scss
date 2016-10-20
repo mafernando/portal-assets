@@ -397,3 +397,11 @@ table.dataTable thead .sorting:after {
 .panel-yellow a:hover {
     color: #df8a13;
 }
+
+.panel:hover > .panel-body:hover {
+    background-color: rgba(34, 76, 152, 0.24);
+}
+
+.panel:hover > .panel-body:active {
+    background-color: rgba(34, 76, 152, 0.58);
+}

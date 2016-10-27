@@ -322,6 +322,24 @@ table.dataTable thead .sorting:after {
     color: #0e2f44;
 }
 
+.panel-magenta {
+    border-color: #d2325d;
+}
+
+.panel-magenta .panel-heading {
+    border-color: #d2325d;
+    color: #fff;
+    background-color: #d2325d;
+}
+
+.panel-magenta a {
+    color: #d2325d;
+}
+
+.panel-magenta a:hover {
+    color: #b9244e;
+}
+
 .panel-purple {
     border-color: #836BB4;
 }

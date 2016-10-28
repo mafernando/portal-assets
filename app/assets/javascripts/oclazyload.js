@@ -1,1 +1,1 @@
-//= require ocLazyLoad/ocLazyLoad.js
+//= require oclazyload/ocLazyLoad.js

@@ -4,3 +4,4 @@
 //= require holderjs
 //= require metisMenu
 //= require startbootstrap-sb-admin-2
+//= require oclazyload

@@ -423,3 +423,49 @@ table.dataTable thead .sorting:after {
 .panel:hover > .panel-body:active {
     background-color: rgba(34, 76, 152, 0.58);
 }
+
+.navbar-hamburger {
+    position: relative;
+    float: left;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.navbar-hamburger:focus {
+    outline: 0;
+}
+.navbar-hamburger .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+}
+.navbar-hamburger .icon-bar + .icon-bar {
+    margin-top: 4px;
+}
+//@media (min-width: 768px) {
+//    .navbar-hamburger {
+//        display: none;
+//    }
+//}
+.navbar-hamburger {
+    border-color: #fff;
+}
+.navbar-hamburger:hover,
+.navbar-hamburger:focus {
+    background-color: #224c98;
+}
+.navbar-hamburger .icon-bar {
+    background-color: #fff;
+}
+.navbar-hamburger {
+    border-color: #333;
+}
+.navbar-hamburger .icon-bar {
+    background-color: #fff;
+}

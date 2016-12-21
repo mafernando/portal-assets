@@ -456,8 +456,7 @@ table.dataTable thead .sorting:after {
 .navbar-hamburger {
     border-color: #fff;
 }
-.navbar-hamburger:hover,
-.navbar-hamburger:focus {
+.navbar-hamburger:hover {
     background-color: #224c98;
 }
 .navbar-hamburger .icon-bar {
@@ -468,4 +467,8 @@ table.dataTable thead .sorting:after {
 }
 .navbar-hamburger .icon-bar {
     background-color: #fff;
+}
+
+.navbar-default .navbar-hamburger:focus {
+    background-color: transparent;
 }

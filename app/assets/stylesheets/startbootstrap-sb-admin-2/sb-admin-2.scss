@@ -304,6 +304,24 @@ table.dataTable thead .sorting:after {
     font-size: 20px;
 }
 
+.panel-blue {
+    border-color: #337AB7;
+}
+
+.panel-blue .panel-heading {
+    border-color: #337AB7;
+    color: #fff;
+    background-color: #337AB7;
+}
+
+.panel-blue a {
+    color: #337AB7;
+}
+
+.panel-blue a:hover {
+    color: #23527C;
+}
+
 .panel-navy {
     border-color: #4c5d7c;
 }
@@ -456,7 +474,8 @@ table.dataTable thead .sorting:after {
 .navbar-hamburger {
     border-color: #fff;
 }
-.navbar-hamburger:hover {
+.navbar-hamburger:hover,
+.navbar-hamburger:focus {
     background-color: #224c98;
 }
 .navbar-hamburger .icon-bar {
